@@ -104,7 +104,7 @@ function respostaSelecionada(opcaoSelecionada){
 }
 
 function mostraResultado(){
-    caixaPerguntas.textContent = "Em 2049...";
+    caixaPerguntas.textContent = "Em 2049 milhares de pessoas estarão usando a IA para facilitar o dia a dia em suas vidas tanto na esfera profissional quanto pessoal. Entretanto, o potencial criativo continuará sendo humano.";
     textoResultado.textContent = historiaFinal;
     caixaAlternativas.textContent = "";
 
