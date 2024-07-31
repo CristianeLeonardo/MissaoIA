@@ -10,11 +10,17 @@ const perguntas = [
         alternativas: [
             {
                 texto:"Isso é assustador!",
-                afirmacao: "No início ficou com medo do que essa tecnologia pode fazer.",
+                afirmacao: [
+                "No início ficou com medo do que essa tecnologia pode fazer.",
+                "Rejeitar o uso e as potencialidades da IA só retardam o avanço que pode ser benéfico a sociedade."
+            ] 
             },
             {
                 texto: "Isso é maravilhoso!",
-                afirmacao: "Quis saber como usar IA no seu dia a dia.",
+                afirmacao: 
+                ["Quis saber como usar IA no seu dia a dia.",
+                "Buscar formação e especialização na área pode trazer grandes benefícios a carreira profissional."
+            ]
             },
         ],
     },
